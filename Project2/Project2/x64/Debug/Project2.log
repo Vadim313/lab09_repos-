@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\38068\source\repos\Project2\Project2\Source.cpp(94): error C4700: uninitialized local variable 'spec' used

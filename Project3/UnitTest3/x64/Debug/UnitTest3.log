@@ -1,0 +1,8 @@
+﻿  UnitTest3.cpp
+C:\Users\38068\source\repos\Project3\Project3\Project3.cpp(11,15): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\38068\source\repos\Project3\Project3\Project3.cpp(13,16): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\38068\source\repos\Project3\Project3\Project3.cpp(32,18): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\38068\source\repos\Project3\Project3\Project3.cpp(33,4): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\38068\source\repos\Project3\Project3\Project3.cpp(34,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\38068\source\repos\Project3\Project3\Project3.cpp(39,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\38068\source\repos\Project3\Project3\Project3.cpp(40,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
